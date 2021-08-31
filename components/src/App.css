@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-style: solid;
+  border-radius: 10px;
+  width: 30rem;
+  box-shadow: 6px 6px; 
+  background-color:lightblue;
+   margin-left: 32.5%;
+   margin-top: 5%; 
+}
+.App h1{
+  color: brown;
+  text-decoration: underline;
+  font-family:Georgia;
+}
+
+
+
+
